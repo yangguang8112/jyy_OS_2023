@@ -1,4 +1,4 @@
-#include "thread.h"
+#include "mythread.h"
 
 void Thello(int id) {
   while (1) {
